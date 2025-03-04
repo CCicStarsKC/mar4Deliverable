@@ -1,0 +1,6 @@
+March4 deliverable
+
+3 namespaces (people Car Occupation) These are folders inside of a project folder
+
+each namespace has 2 classes with three fields with different data types
+
