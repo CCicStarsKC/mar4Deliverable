@@ -1,0 +1,14 @@
+c:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\m4d.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\m4d.AssemblyInfoInputs.cache
+c:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\m4d.AssemblyInfo.cs
+c:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\m4d.csproj.CoreCompileInputs.cache
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\bin\Debug\net9.0\m4d.exe
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\bin\Debug\net9.0\m4d.deps.json
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\bin\Debug\net9.0\m4d.runtimeconfig.json
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\bin\Debug\net9.0\m4d.dll
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\bin\Debug\net9.0\m4d.pdb
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\m4d.dll
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\refint\m4d.dll
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\m4d.pdb
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\m4d.genruntimeconfig.cache
+C:\Users\CalebCampbell\Desktop\mar4Deliverable\m4d\obj\Debug\net9.0\ref\m4d.dll
